@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,go)
+![Languages](https://skillicons.dev/icons?i=go,c,cpp)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=docker,k8s&perline=3)](https://skillicons.dev)
