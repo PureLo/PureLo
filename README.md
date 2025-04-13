@@ -9,8 +9,8 @@ Welcome to my GitHub profile! 🌟
 ![Languages](https://skillicons.dev/icons?i=c,cpp,go)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker,k8s&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
