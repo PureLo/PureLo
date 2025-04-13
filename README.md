@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lo&show_icons=true&theme=cobalt)
+![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PureLo&show_icons=true&theme=cobalt)
 
 ## Skills
 
