@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🌟
 [![Backend Technologies](https://skillicons.dev/icons?i=docker,k8s&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,mariadb,redis)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,shell,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,githubactions,gitlab)
