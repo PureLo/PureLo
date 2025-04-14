@@ -1,9 +1,9 @@
-Welcome to my GitHub profile! 🌟
+<!-- ## 
+GitHub Stats
+![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PureLo&show_icons=true&theme=cobalt) 
+-->
 
-## GitHub Stats
-![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PureLo&show_icons=true&theme=cobalt)
-
-## Skills
+## Trend
 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=go,c,cpp)
