@@ -2,7 +2,7 @@
 GitHub Stats
 ![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PureLo&show_icons=true&theme=cobalt) 
 -->
-
+<!-- ## 
 ## Trend
 
 #### Programming Languages
@@ -16,3 +16,4 @@ GitHub Stats
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,githubactions,gitlab)
+-->
