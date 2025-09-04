@@ -1,7 +1,6 @@
-<!-- ## 
+## 
 GitHub Stats
 ![Lo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PureLo&show_icons=true&theme=cobalt) 
--->
 
 <!-- ## 
 ## Trend
